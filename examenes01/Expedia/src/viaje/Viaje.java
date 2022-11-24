@@ -2,8 +2,6 @@ package viaje;
 
 import java.util.*;
 
-
-
 public class Viaje {
 
 	public static void main(String[] args) {
